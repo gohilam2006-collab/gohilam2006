@@ -1,4 +1,4 @@
-# Gohila-M<div align="center">
+# GohilaM<div align="center">
 
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a18cd1,100:c471ed&height=180&section=header&text=Gohila%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Engineer%20%7C%20CSE%20Student&descAlignY=55&descSize=18"/>
